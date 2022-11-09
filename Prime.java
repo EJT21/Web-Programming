@@ -14,6 +14,7 @@ class Prime
                 if(i%j==0)
                 {
                     break;
+                    //System.out.println();
                 }
             }
         }
